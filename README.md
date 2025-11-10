@@ -20,9 +20,7 @@ When I’m not deep in code, you’ll find me exploring new ideas, learning how 
 
 ### 🧰 Tech Stack
 **Languages & Frameworks:**  
-`C#` • `.NET` • `ASP.NET Core` • `EF Core`  
-`JavaScript` • `TypeScript` • `React` • `Angular`  
-`Tailwind CSS`  
+`C#` • `.NET` • `ASP.NET Core` • `EF Core` • `JavaScript` • `TypeScript` • `React` • `Angular` • `Tailwind CSS`  
 
 **DevOps & Cloud:**  
 `Terraform` • `Azure` • `MinIO`  
@@ -40,7 +38,7 @@ When I’m not deep in code, you’ll find me exploring new ideas, learning how 
 
 ### 📫 Connect
 - 💼 [LinkedIn](www.linkedin.com/in/ranjitp16)  
-- 🧑‍💻 [GitHub](https://github.com/ranjeet112-mum)
+- 🧑‍💻 [GitHub](https://github.com/ranjitp16)
 
 ---
 
