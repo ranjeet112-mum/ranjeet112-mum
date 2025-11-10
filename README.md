@@ -1,4 +1,4 @@
-# Hi there 👋, I'm Ranjit
+# नमस्ते 👋. I'm Ranjit
 
 🚀 **Tech Enthusiast | Problem Solver | Builder of Smart Systems**
 
@@ -39,9 +39,10 @@ When I’m not deep in code, you’ll find me exploring new ideas, learning how 
 ---
 
 ### 📫 Connect
-- 💼 [LinkedIn](https://www.linkedin.com/in/ranjitpandey/)  
-- 🧑‍💻 [GitHub](https://github.com/ranjitpandey)
+- 💼 [LinkedIn](www.linkedin.com/in/ranjitp16)  
+- 🧑‍💻 [GitHub](https://github.com/ranjeet112-mum)
 
 ---
 
 > “The best solutions often start with a simple question: _What if?_”
+> “अक्सर सबसे अच्छे समाधान एक साधारण सवाल से शुरू होते हैं: _क्या होगा अगर?_”
