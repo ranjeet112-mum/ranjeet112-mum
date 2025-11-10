@@ -45,4 +45,5 @@ When I’m not deep in code, you’ll find me exploring new ideas, learning how 
 ---
 
 > “The best solutions often start with a simple question: _What if?_”
+
 > “अक्सर सबसे अच्छे समाधान एक साधारण सवाल से शुरू होते हैं: _क्या होगा अगर?_”
