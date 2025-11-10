@@ -1,12 +1,10 @@
-# नमस्ते 👋. I'm Ranjit
+# नमस्ते 👋. I'm Ranjit  
 
 🚀 **Tech Enthusiast | Problem Solver | Builder of Smart Systems**
 
-I’m Ranjit — a curious mind who loves solving puzzles, digital or otherwise.  
-Whether it’s **cracking code**, **streamlining systems**, or **making products work smarter**, I’m always up for a challenge.
+I’m Ranjit — a curious mind who loves solving puzzles, digital or otherwise. Whether it’s **cracking code**, **streamlining systems**, or **making products work smarter**, I’m always up for a challenge.
 
-I thrive on **curiosity**, **experimentation**, and the joy of building something meaningful.  
-When I’m not deep in code, you’ll find me exploring new ideas, learning how things work, or tinkering with projects that make life a little more efficient — and a lot more fun.
+I thrive on **curiosity**, **experimentation**, and the joy of building something meaningful. When I’m not deep in code, you’ll find me exploring new ideas, learning how things work, or tinkering with projects that make life a little more efficient — and a lot more fun.
 
 ---
 
@@ -33,12 +31,6 @@ When I’m not deep in code, you’ll find me exploring new ideas, learning how 
 ### 🌱 Currently Exploring
 - Advanced **system design** & **distributed architectures**  
 - **AI-assisted development** and **infrastructure as code**  
-
----
-
-### 📫 Connect
-- 💼 [LinkedIn](www.linkedin.com/in/ranjitp16)  
-- 🧑‍💻 [GitHub](https://github.com/ranjitp16)
 
 ---
 
